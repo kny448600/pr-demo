@@ -10,7 +10,7 @@ const rows = [
   //데모의 이름, 깃허브
   createData('duduge','https://github.com/kny448600/javascript_Lecture-main/tree/main/%EA%B2%8C%EC%9E%84%EB%93%A4/%EB%91%90%EB%8D%94%EC%A7%80%20%EC%9E%A1%EA%B8%B0','/duduge'),
   createData('snake','https://github.com/kny448600/javascript_Lecture-main/tree/main/%EA%B2%8C%EC%9E%84%EB%93%A4/%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC%20%EA%B2%8C%EC%9E%84','/snake'),
-  createData('memory','https://github.com/kny448600/javascript_Lecture-main/tree/main/%EA%B2%8C%EC%9E%84%EB%93%A4/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9D%B8%EB%B2%A0%EC%9D%B4%EB%8D%94','/memory'),
+  createData('memory','https://github.com/kny448600/javascript_Lecture-main/tree/main/%EA%B2%8C%EC%9E%84%EB%93%A4/%EC%B9%B4%EB%93%9C%20%EB%92%A4%EC%A7%91%EA%B8%B0','/memory'),
 ]
 
 export default function Home() {
